@@ -1,0 +1,14 @@
+D:\ceng\C#\Nesne Tabanlı Programlama\13.Hafta\hafta13_odev\hafta13_odev\obj\Debug\hafta13_odev.csproj.AssemblyReference.cache
+D:\ceng\C#\Nesne Tabanlı Programlama\13.Hafta\hafta13_odev\hafta13_odev\obj\Debug\hafta13_odev.csproj.CoreCompileInputs.cache
+D:\ceng\C#\Nesne Tabanlı Programlama\13.Hafta\hafta13_odev\hafta13_odev\bin\Debug\hafta13_odev.exe.config
+D:\ceng\C#\Nesne Tabanlı Programlama\13.Hafta\hafta13_odev\hafta13_odev\bin\Debug\hafta13_odev.exe
+D:\ceng\C#\Nesne Tabanlı Programlama\13.Hafta\hafta13_odev\hafta13_odev\bin\Debug\hafta13_odev.pdb
+D:\ceng\C#\Nesne Tabanlı Programlama\13.Hafta\hafta13_odev\hafta13_odev\obj\Debug\hafta13_odev.exe
+D:\ceng\C#\Nesne Tabanlı Programlama\13.Hafta\hafta13_odev\hafta13_odev\obj\Debug\hafta13_odev.pdb
+D:\ceng\C#\Nesne Tabanlı Programlama\0.Odevler\hafta13_odev\hafta13_odev\bin\Debug\hafta13_odev.exe.config
+D:\ceng\C#\Nesne Tabanlı Programlama\0.Odevler\hafta13_odev\hafta13_odev\bin\Debug\hafta13_odev.exe
+D:\ceng\C#\Nesne Tabanlı Programlama\0.Odevler\hafta13_odev\hafta13_odev\bin\Debug\hafta13_odev.pdb
+D:\ceng\C#\Nesne Tabanlı Programlama\0.Odevler\hafta13_odev\hafta13_odev\obj\Debug\hafta13_odev.csproj.AssemblyReference.cache
+D:\ceng\C#\Nesne Tabanlı Programlama\0.Odevler\hafta13_odev\hafta13_odev\obj\Debug\hafta13_odev.csproj.CoreCompileInputs.cache
+D:\ceng\C#\Nesne Tabanlı Programlama\0.Odevler\hafta13_odev\hafta13_odev\obj\Debug\hafta13_odev.exe
+D:\ceng\C#\Nesne Tabanlı Programlama\0.Odevler\hafta13_odev\hafta13_odev\obj\Debug\hafta13_odev.pdb
